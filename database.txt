@@ -1,0 +1,6 @@
+11111	Sarah Smith	45.89
+22222	Sue Johnson	7765.98
+33333	Billy Hunts	374.99
+4296	Sam Tubb	2500.0
+123	Khoa Tran	123.4
+145	Jimmy Taylor	34.5
